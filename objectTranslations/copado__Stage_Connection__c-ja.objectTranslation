@@ -27,5 +27,12 @@
         <name>copado__Stage__c</name>
         <relationshipLabel><!-- Stage Connections --></relationshipLabel>
     </fields>
+    <layouts>
+        <layout>Stage Connection Layout</layout>
+        <sections>
+            <label>ステージの依存関係</label>
+            <section>Stage Dependencies</section>
+        </sections>
+    </layouts>
     <nameFieldLabel><!-- Stage Connection Name --></nameFieldLabel>
 </CustomObjectTranslation>

@@ -66,4 +66,11 @@
         <label><!-- Last Synced Date --></label>
         <name>copadoconnect__Last_Synced_Date__c</name>
     </fields>
+    <layouts>
+        <layout>Epic Layout</layout>
+        <sections>
+            <label><!-- Owners --></label>
+            <section>Owners</section>
+        </sections>
+    </layouts>
 </CustomObjectTranslation>

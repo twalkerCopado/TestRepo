@@ -84,5 +84,12 @@
         <label><!-- Organization --></label>
         <name>copadoconnect__Organization__c</name>
     </fields>
+    <layouts>
+        <layout>Project Layout</layout>
+        <sections>
+            <label>プロジェクトの概要</label>
+            <section>Project Summary</section>
+        </sections>
+    </layouts>
     <nameFieldLabel><!-- Project Name --></nameFieldLabel>
 </CustomObjectTranslation>

@@ -41,5 +41,12 @@
         <label><!-- Username --></label>
         <name>copado__Username__c</name>
     </fields>
+    <layouts>
+        <layout>Pull Request Review Layout</layout>
+        <sections>
+            <label>URL +コメント</label>
+            <section>URLs + Comments</section>
+        </sections>
+    </layouts>
     <nameFieldLabel><!-- Pull Request Review Name --></nameFieldLabel>
 </CustomObjectTranslation>

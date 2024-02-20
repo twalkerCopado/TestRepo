@@ -57,4 +57,12 @@
         <name>copado__dataJson__c</name>
     </fields>
     <nameFieldLabel><!-- Quality Gate Rule Name --></nameFieldLabel>
+    <quickActions>
+        <label><!-- Activate --></label>
+        <name>copado__Activate</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Deactivate --></label>
+        <name>copado__Deactivate</name>
+    </quickActions>
 </CustomObjectTranslation>

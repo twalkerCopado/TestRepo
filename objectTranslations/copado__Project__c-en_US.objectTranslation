@@ -80,4 +80,11 @@
         <label><!-- Organization --></label>
         <name>copadoconnect__Organization__c</name>
     </fields>
+    <layouts>
+        <layout>Project Layout</layout>
+        <sections>
+            <label><!-- Project Summary --></label>
+            <section>Project Summary</section>
+        </sections>
+    </layouts>
 </CustomObjectTranslation>
