@@ -80,5 +80,9 @@
         <name>Username__c</name>
     </fields>
     <gender>Neuter</gender>
+    <quickActions>
+        <label><!-- Ignore Metadata Action --></label>
+        <name>Ignore_Metadata_Action</name>
+    </quickActions>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

@@ -75,4 +75,20 @@
             <translation><!-- ServiceNow --></translation>
         </picklistValues>
     </fields>
+    <quickActions>
+        <label><!-- Activate --></label>
+        <name>copadoconnect__Activate</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Create New Mapping --></label>
+        <name>copadoconnect__Add_Mapping</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Clone --></label>
+        <name>copadoconnect__Clone</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Deactivate --></label>
+        <name>copadoconnect__Deactivate</name>
+    </quickActions>
 </CustomObjectTranslation>

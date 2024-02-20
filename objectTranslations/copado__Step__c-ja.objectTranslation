@@ -207,5 +207,16 @@
         <label><!-- dataJson --></label>
         <name>copado__dataJson__c</name>
     </fields>
+    <layouts>
+        <layout>Step Layout</layout>
+        <sections>
+            <label>JSONステップデータ</label>
+            <section>Json Step Data</section>
+        </sections>
+        <sections>
+            <label>進捗</label>
+            <section>Progress</section>
+        </sections>
+    </layouts>
     <nameFieldLabel><!-- Step Name --></nameFieldLabel>
 </CustomObjectTranslation>

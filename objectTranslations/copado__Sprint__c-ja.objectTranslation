@@ -108,6 +108,13 @@
         <label><!-- Last Synced Date --></label>
         <name>copadoconnect__Last_Synced_Date__c</name>
     </fields>
+    <layouts>
+        <layout>Sprint Layout</layout>
+        <sections>
+            <label>スプリントの概要</label>
+            <section>Sprint Summary</section>
+        </sections>
+    </layouts>
     <nameFieldLabel><!-- Sprint Name --></nameFieldLabel>
     <validationRules>
         <errorMessage><!-- You must introduce an End Date greater than the Start Date. --></errorMessage>

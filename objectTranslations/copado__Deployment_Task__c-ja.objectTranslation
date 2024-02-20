@@ -126,5 +126,12 @@
         <label><!-- dataJSON --></label>
         <name>copado__dataJSON__c</name>
     </fields>
+    <layouts>
+        <layout>Deployment Task Layout</layout>
+        <sections>
+            <label>新セクション</label>
+            <section>New Section</section>
+        </sections>
+    </layouts>
     <nameFieldLabel><!-- Deployment Tasks Name --></nameFieldLabel>
 </CustomObjectTranslation>

@@ -143,6 +143,13 @@
         <name>copado__User_Story__c</name>
         <relationshipLabel><!-- Test Runs --></relationshipLabel>
     </fields>
+    <layouts>
+        <layout>Test Execution Layout</layout>
+        <sections>
+            <label>テスト実行結果</label>
+            <section>Test Run Results</section>
+        </sections>
+    </layouts>
     <nameFieldLabel><!-- Test Run Name --></nameFieldLabel>
     <webLinks>
         <label><!-- Copado_DX --></label>
