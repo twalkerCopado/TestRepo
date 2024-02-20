@@ -43,6 +43,13 @@
         <label><!-- Value --></label>
         <name>copado__Value__c</name>
     </fields>
+    <layouts>
+        <layout>System Property Layout</layout>
+        <sections>
+            <label><!-- System property assignment --></label>
+            <section>System property assignment</section>
+        </sections>
+    </layouts>
     <validationRules>
         <errorMessage><!-- The API Name cannot contain blank spaces. --></errorMessage>
         <name>copado__API_Name_Cannot_Contain_Spaces</name>
