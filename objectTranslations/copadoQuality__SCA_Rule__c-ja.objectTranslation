@@ -129,5 +129,16 @@
             <translation>2</translation>
         </picklistValues>
     </fields>
+    <layouts>
+        <layout>SCA Rule Layout</layout>
+        <sections>
+            <label>基本情報</label>
+            <section>Basic Information</section>
+        </sections>
+        <sections>
+            <label>ルールの構成</label>
+            <section>Rule Configuration</section>
+        </sections>
+    </layouts>
     <nameFieldLabel><!-- Rule ID --></nameFieldLabel>
 </CustomObjectTranslation>

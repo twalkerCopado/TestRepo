@@ -125,4 +125,15 @@
             <translation><!-- 2.0 --></translation>
         </picklistValues>
     </fields>
+    <layouts>
+        <layout>SCA Rule Layout</layout>
+        <sections>
+            <label><!-- Basic Information --></label>
+            <section>Basic Information</section>
+        </sections>
+        <sections>
+            <label><!-- Rule Configuration --></label>
+            <section>Rule Configuration</section>
+        </sections>
+    </layouts>
 </CustomObjectTranslation>

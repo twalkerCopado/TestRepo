@@ -62,4 +62,11 @@
         <label><!-- Work Item Id --></label>
         <name>copadovsm__Work_Item_Id__c</name>
     </fields>
+    <layouts>
+        <layout>Event Layout</layout>
+        <sections>
+            <label><!-- Calculations --></label>
+            <section>Calculations</section>
+        </sections>
+    </layouts>
 </CustomObjectTranslation>
