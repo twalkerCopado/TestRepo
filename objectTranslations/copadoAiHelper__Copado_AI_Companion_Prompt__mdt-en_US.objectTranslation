@@ -47,4 +47,15 @@ See this to understand the System messages role: https://platform.openai.com/doc
         <label><!-- System prompt (before) --></label>
         <name>copadoAiHelper__System_prompt_before__c</name>
     </fields>
+    <layouts>
+        <layout>Copado AI Companion Prompt Layout</layout>
+        <sections>
+            <label><!-- Prompt context information --></label>
+            <section>Prompt context information</section>
+        </sections>
+        <sections>
+            <label><!-- Prompt/Question information --></label>
+            <section>Prompt/Question information</section>
+        </sections>
+    </layouts>
 </CustomObjectTranslation>

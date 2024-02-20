@@ -58,4 +58,11 @@
             <translation><!-- Unstable --></translation>
         </picklistValues>
     </fields>
+    <layouts>
+        <layout>Application Layout</layout>
+        <sections>
+            <label><!-- Owners --></label>
+            <section>Owners</section>
+        </sections>
+    </layouts>
 </CustomObjectTranslation>

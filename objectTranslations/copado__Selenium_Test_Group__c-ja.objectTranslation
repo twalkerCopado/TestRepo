@@ -82,6 +82,13 @@
             <translation>ユーザーストーリーテスト</translation>
         </picklistValues>
     </fields>
+    <layouts>
+        <layout>Selenium Test Group Layout</layout>
+        <sections>
+            <label>新セクション</label>
+            <section>New Section</section>
+        </sections>
+    </layouts>
     <nameFieldLabel><!-- Selenium Test Group Name --></nameFieldLabel>
     <validationRules>
         <errorMessage><!-- The Environment field is required if the Type is &quot;User Story Test&quot; or &quot;Regression Test&quot;. --></errorMessage>

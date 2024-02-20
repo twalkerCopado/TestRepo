@@ -45,5 +45,12 @@
         <name>copado__Test_Script__c</name>
         <relationshipLabel><!-- Test Script Steps --></relationshipLabel>
     </fields>
+    <layouts>
+        <layout>Script Step Layout</layout>
+        <sections>
+            <label>新セクション</label>
+            <section>New Section</section>
+        </sections>
+    </layouts>
     <nameFieldLabel><!-- Script Step Name --></nameFieldLabel>
 </CustomObjectTranslation>

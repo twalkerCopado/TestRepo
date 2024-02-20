@@ -58,4 +58,11 @@
         <name>copado__To_Org__c</name>
         <relationshipLabel><!-- Destination Credentials --></relationshipLabel>
     </fields>
+    <layouts>
+        <layout>Destination Org Layout</layout>
+        <sections>
+            <label><!-- Progress --></label>
+            <section>Progress</section>
+        </sections>
+    </layouts>
 </CustomObjectTranslation>

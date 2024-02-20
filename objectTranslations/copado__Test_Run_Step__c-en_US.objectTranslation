@@ -50,4 +50,11 @@
         <name>copado__Test_Run__c</name>
         <relationshipLabel><!-- Test Run Steps --></relationshipLabel>
     </fields>
+    <layouts>
+        <layout>Test Execution Step Layout</layout>
+        <sections>
+            <label><!-- New Section --></label>
+            <section>New Section</section>
+        </sections>
+    </layouts>
 </CustomObjectTranslation>

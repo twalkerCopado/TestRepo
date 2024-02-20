@@ -92,4 +92,11 @@
             <translation><!-- Time Savings --></translation>
         </picklistValues>
     </fields>
+    <layouts>
+        <layout>Feature Layout</layout>
+        <sections>
+            <label><!-- Owners --></label>
+            <section>Owners</section>
+        </sections>
+    </layouts>
 </CustomObjectTranslation>
